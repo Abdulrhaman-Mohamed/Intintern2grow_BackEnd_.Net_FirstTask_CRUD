@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>First Task in Intern2grow Back-end</title>
-</head>
 <body>
   <h1>First Task in Intern2grow Back-end</h1>
 
