@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "hFezoVhmTzVXXVawfpj+D4TLzLz3/b8eBLLsdBIZopg=",
+  "Source": "Back-end-CRUD",
+  "BasePath": "_content/Back-end-CRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Back-end-CRUD\\wwwroot",
+      "Source": "Back-end-CRUD",
+      "ContentRoot": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\",
+      "BasePath": "_content/Back-end-CRUD",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\PostsImages\\5gvm0xrs.wjq.jpg",
+      "SourceId": "Back-end-CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\",
+      "BasePath": "_content/Back-end-CRUD",
+      "RelativePath": "PostsImages/5gvm0xrs.wjq.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PostsImages\\5gvm0xrs.wjq.jpg"
+    },
+    {
+      "Identity": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\PostsImages\\gxqtxmak.wdf.jpg",
+      "SourceId": "Back-end-CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\",
+      "BasePath": "_content/Back-end-CRUD",
+      "RelativePath": "PostsImages/gxqtxmak.wdf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PostsImages\\gxqtxmak.wdf.jpg"
+    },
+    {
+      "Identity": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\PostsImages\\j44bos4h.0oy.jpg",
+      "SourceId": "Back-end-CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\",
+      "BasePath": "_content/Back-end-CRUD",
+      "RelativePath": "PostsImages/j44bos4h.0oy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PostsImages\\j44bos4h.0oy.jpg"
+    },
+    {
+      "Identity": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\PostsImages\\jlgghlmx.q5a.jpg",
+      "SourceId": "Back-end-CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Tasks_Mosh\\intern2grow\\Back-end\\Task-1-CRUD\\Back-end-CRUD\\Back-end-CRUD\\wwwroot\\",
+      "BasePath": "_content/Back-end-CRUD",
+      "RelativePath": "PostsImages/jlgghlmx.q5a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PostsImages\\jlgghlmx.q5a.jpg"
+    }
+  ]
+}
